@@ -1,0 +1,4 @@
+torch>=2.0
+tiktoken>=0.5
+matplotlib        # optional, only for the Part 2 plot
+nbconvert         # optional, only to re-execute the notebook

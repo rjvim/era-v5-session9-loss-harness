@@ -1,0 +1,4 @@
+# training state — regenerate with: python3 train_mtp.py --total 300 --chunk 60
+*.pt
+__pycache__/
+.ipynb_checkpoints/
